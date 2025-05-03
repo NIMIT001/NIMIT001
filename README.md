@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nimitsonijobid@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LKLQ6kTFvGYkXr83Or-yo2XINvZxgOpm/view?usp=sharing](https://drive.google.com/file/d/1LKLQ6kTFvGYkXr83Or-yo2XINvZxgOpm/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1H_J7qrjoHn6pUofNEo5iQx_-heOH5BCH/view?usp=drive_link
 
 - ⚡ Fun fact **I have no social life.**
 
