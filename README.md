@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nimit__ns" target="blank"><img src="https://img.shields.io/twitter/follow/nimit__ns?logo=twitter&style=for-the-badge" alt="nimit__ns" /></a> </p>
 
-- 🔭 I’m currently working on **Real World Problem**
+- 🔭 I’m currently working in **Product Based Company**
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nimitsonijobid@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1H_J7qrjoHn6pUofNEo5iQx_-heOH5BCH/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1ZPol6rNbFRznsVX7kyNED-sxhS8Hhiia/view?usp=sharing
 
 - ⚡ Fun fact **I have no social life.**
 
